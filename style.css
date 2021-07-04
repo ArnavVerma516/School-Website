@@ -1,0 +1,4 @@
+<div class="annoucement">
+            <marquee id="marqueStyle" onmouseover="this.stop()" ; onmouseout="this.start();">
+            </marquee>
+        </div>
